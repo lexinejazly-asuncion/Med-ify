@@ -1,6 +1,6 @@
 # Med-ify
-# for linux instructions:
-# git clone https://github.com/lexinejazly-asuncion/Med-ify
-# cd Med-ify/medify
-# npm install
-# npm start
+## for linux instructions:
+### 1. git clone https://github.com/lexinejazly-asuncion/Med-ify
+### 2. cd Med-ify/medify
+### 3. npm install
+### 4. npm start
